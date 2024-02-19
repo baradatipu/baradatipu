@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tipu</h1>
 <h3 align="center">Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baradatipu&label=Profile%20views&color=0e75b6&style=flat" alt="baradatipu" /> </p>
+[![](https://visitcount.itsvg.in/api?id=baradatipu&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baradatipu" alt="baradatipu" /></a> </p>
 
