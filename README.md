@@ -26,7 +26,6 @@
 
 <!-- New Widget Start -->
 
-<img src="https://raw.githubusercontent.com/baradatipu/baradatipu/output/snake.svg" alt="Snake animation" />
 
 <!-- New Widget End -->
 
