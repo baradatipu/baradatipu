@@ -4,7 +4,7 @@
 [![](https://visitcount.itsvg.in/api?id=baradatipu&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baradatipu" alt="baradatipu" /></a> </p>
-- 🌱 I’m currently learning .NET, Python, Shell Script
+- 🌱 I’m currently learning AI, Blockchain & Cyber Forensics.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/baradatipu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/baradatipu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@baradatipu) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/baradatipu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/baradatipu) 
