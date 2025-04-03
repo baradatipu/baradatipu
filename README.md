@@ -19,3 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baradatipu&show_icons=true&locale=en" alt="baradatipu" /></p>
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=baradatipu&theme=dark&hide_border=true)
