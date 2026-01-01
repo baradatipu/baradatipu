@@ -1,8 +1,20 @@
 <h1 align="center">Hi 👋, I'm Tipu</h1>
 <h3 align="center">Developer from India</h3>
-<a href="https://baradatipu.me">Visit baradatipu.me</a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baradatipu" alt="baradatipu" /></a> </p>
+<p align="left">
+  <a href="https://github.com/baradatipu">
+    <img src="https://github.com/baradatipu.png" width="60" />
+  </a>
+</p>
+
+
+<p align="left">
+  <a href="https://baradatipu.me" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20My%20Website-Visit-0A8754?style=for-the-badge" />
+  </a>
+</p>
+
+
 - 🌱 I’m currently learning AI, Blockchain & Cyber Forensics.
 
 ## 🌐 Socials:
@@ -13,9 +25,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/baradatipu "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="baradatipu " /></a></p><br><br><br><br><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baradatipu&show_icons=true&locale=en&layout=compact" alt="baradatipu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baradatipu&show_icons=true&locale=en" alt="baradatipu" /></p>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=baradatipu&theme=dark&hide_border=true)
