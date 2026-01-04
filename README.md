@@ -25,5 +25,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/baradatipu "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="baradatipu " /></a></p><br><br><br><br><br><br>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=baradatipu&theme=dark&hide_border=true)
